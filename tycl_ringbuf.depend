@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1680163240 source:e:\my_c\tycl_ringbuf\tycl_ringbuf.c
+	<string.h>
+	"tycl_ringbuf.h"
+
+1680162433 e:\my_c\tycl_ringbuf\tycl_ringbuf.h
+	<stdint.h>
+
+1680162817 source:e:\my_c\tycl_ringbuf\main.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	"wallyingLib.h"
+	"tycl_ringbuf.h"
+
+1680156453 e:\my_c\wallyinglib\wallyinglib.h
+	"stdint.h"
+
